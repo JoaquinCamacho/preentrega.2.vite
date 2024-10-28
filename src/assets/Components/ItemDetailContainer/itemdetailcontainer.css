@@ -1,0 +1,14 @@
+.contenedor-itemdetail{
+    display: flex;
+}
+
+.contenedor-itemdetail img{
+    width: 400px;
+}
+
+.datos-p p{
+    color: white;
+    margin: 20px;
+
+    font-size: 25px;
+}

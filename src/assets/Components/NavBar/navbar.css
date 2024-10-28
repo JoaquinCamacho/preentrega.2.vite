@@ -1,0 +1,63 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+    background-color: rgb(15, 15, 15);
+}
+
+nav h1{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    margin: 30px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    list-style: none;
+}
+
+
+.link-nav{
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.link-nav:hover{
+    background-color: rgb(33, 0, 63);
+}
+
+.logo{
+    width: 100px;
+    margin: 10px;
+}
+
+.carrito{
+    width: 40px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.prd{
+    position: absolute;
+    right: 10px;
+    top: 15px   ;
+
+
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+
+}
